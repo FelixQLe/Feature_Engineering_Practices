@@ -9,4 +9,12 @@ In this repos,
 - decompose a dataset's variation into features with principal component analysis
 
 
-## The Goal of FE is basically make our data great fitted to the the problem we trying to solve
+## -----------------
+The Goal of FE is basically make our data great fitted to the ML model to our problem we trying to solve
+## -----------------
+We want to perform FE to:
+* improve a model's predictive power
+* reduce computational or data needs
+* improve interpretability of the results
+
+
